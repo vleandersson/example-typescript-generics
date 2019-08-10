@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3"
+  }
+}
