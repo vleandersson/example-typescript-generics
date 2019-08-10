@@ -1,6 +1,18 @@
 {
+  "author": "Viktor Leandersson",
+  "name": "webpack-base",
+  "version": "1.0.0",
+  "description": "Base for ts webpack projects",
+  "scripts": {
+    "start": "webpack",
+    "build":"webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "license": "MIT",
   "devDependencies": {
     "ts-loader": "^6.0.4",
-    "typescript": "^3.5.3"
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
   }
 }
