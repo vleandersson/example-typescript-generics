@@ -92,7 +92,7 @@ interface MinimumProductData {
  */
 function mapAnyProductData<TProduct extends MinimumProductData>(
   anyProductData: TProduct
-): TProduct {
+) {
   return {
     ...anyProductData,
     id: `product id: ${anyProductData.id}`
