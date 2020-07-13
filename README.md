@@ -1,5 +1,5 @@
 # Example code for the article "TypeScript: Generic Function-Parameter Types"
-You can find the (article here)[https://medium.com/better-programming/typescript-generic-objects-1eecc13dca93]
+You can find the [article here](https://medium.com/better-programming/typescript-generic-objects-1eecc13dca93)
 This package contains all examples used in the repo. Download and run them all with `npm` or `yarn`, and play around with the typings from TypeScript.
 
 # How to run
