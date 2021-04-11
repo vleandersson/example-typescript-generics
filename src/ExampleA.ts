@@ -103,6 +103,6 @@ console.group("Example A");
 console.log("Raw query: ", queryProduct()); // {price: 12, id: "foo"}
 console.log("Example A1: ", ExampleA1()); // {price: 12, id: "product id: foo"}
 console.log("Example A2: ", ExampleA2()); // {price: 12, id: "product id: foo"}
-console.log("Example A3: ", ExampleA3()); // {price: 12, id: "product id: foo", size: "L"}
-console.log("Example A4: ", ExampleA4()); // {price: 12, id: "product id: foo", size: "L"}
+console.log("Example A3: ", ExampleA3()); // {price: 12, id: "product id: bar", size: "L"}
+console.log("Example A4: ", ExampleA4()); // {price: 12, id: "product id: bar", size: "L"}
 console.groupEnd();
